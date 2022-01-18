@@ -40,6 +40,9 @@ nav {
 
 .logo img {
     width: 100px;
+
+    border-radius: 30px;
+
     
 }
 
@@ -128,7 +131,7 @@ p{
 	margin-right: 10px;
 	margin-left: 10px;
     
-    Font-size: 20px;
+    Font-size: 16px;
 }
 
 
